@@ -1,0 +1,24 @@
+
+.img{
+    border:0;
+    margin:0;
+    padding:0;
+}
+
+.main-fon{
+    height:1300px;
+}
+
+.gradient-text {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 56px;
+    text-transform: uppercase;
+    background: linear-gradient(30deg, #f06767 30%, #0e82ff 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(51, 105, 194);
+    display: table;
+    margin: 56px auto;}
+    .contact{
+      font-size: 40px;
+    }
